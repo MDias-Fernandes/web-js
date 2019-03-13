@@ -1,0 +1,22 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDias-Fernandes/web-js.git"
+  },
+  "author": "MDias-Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MDias-Fernandes/web-js/issues"
+  },
+  "homepage": "https://github.com/MDias-Fernandes/web-js#readme",
+  "dependencies": {
+    "mocha": "^6.0.2"
+  }
+}
